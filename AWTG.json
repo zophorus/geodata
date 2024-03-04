@@ -68,7 +68,7 @@
 { "type": "Feature", "properties": { "CODE": "AA-080-00022", "NAAM": "AWTG Aalsmeer Machineweg", "TYPE": "AWTG" }, "geometry": { "type": "Point", "coordinates": [ 4.7907259344, 52.277940842699998 ] } },
 { "type": "Feature", "properties": { "CODE": "SP-080-00022", "NAAM": "AWTG Spaarne Buiten", "TYPE": "AWTG" }, "geometry": { "type": "Point", "coordinates": [ 4.6805901105, 52.409910089900002 ] } },
 { "type": "Feature", "properties": { "CODE": "WM-080-00021", "NAAM": "AWTG Warmond", "TYPE": "AWTG" }, "geometry": { "type": "Point", "coordinates": [ 4.495459386, 52.194364379200003 ] } },
-{ "type": "Feature", "properties": { "CODE": "AD-080-00024", "NAAM": "AWTG Eindgemaal Westpoort 2", "TYPE": "AWTG" }, "geometry": { "type": "Point", "coordinates": [ 4.7604975523, 52.402948247099999 ] } },
+{ "type": "Feature", "properties": { "CODE": "AD-080-00024", "NAAM": "AWTG  Eindgemaal Westpoort 2", "TYPE": "AWTG" }, "geometry": { "type": "Point", "coordinates": [ 4.7604975523, 52.402948247099999 ] } },
 { "type": "Feature", "properties": { "CODE": "AD-080-00022", "NAAM": "AWTG Eindgemaal Westpoort", "TYPE": "AWTG" }, "geometry": { "type": "Point", "coordinates": [ 4.8349602765, 52.363761768300002 ] } },
 { "type": "Feature", "properties": { "CODE": "AD-080-00023", "NAAM": "AWTG Eindgemaal Westpoort 2", "TYPE": "AWTG" }, "geometry": { "type": "Point", "coordinates": [ 4.8006947985, 52.358973139200003 ] } },
 { "type": "Feature", "properties": { "CODE": "ZA-080-00021", "NAAM": "AWTG Zandvoort", "TYPE": "AWTG" }, "geometry": { "type": "Point", "coordinates": [ 4.5464572387, 52.375174155300002 ] } },
